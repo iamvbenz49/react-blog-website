@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "chatgpt is amazing",
+      "body": "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.",
+      "author": "wayne",
+      "id": 3
+    },
+    {
+      "title": "LC leetcode",
+      "body": "Not only does LeetCode prepare candidates for technical interviews, we also help companies identify top technical talent. From sponsoring contests to providing online assessments and training, we offer numerous services to businesses.",
+      "author": "benz",
+      "id": 4
+    },
+    {
+      "title": "Welcome to the circus",
+      "body": "We now support 14 popular coding languages. At our core, LeetCode is about developers. Our powerful development tools such as Playground help you test, debug and even write your own projects onlin",
+      "author": "wayne",
+      "id": 6
+    }
+  ]
+}
